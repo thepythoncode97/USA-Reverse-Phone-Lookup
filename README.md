@@ -14,7 +14,7 @@ This software allows you to perform a reverse phone lookup for the **USA Only**,
 8. **Get Gender**
 
 ## Contact:
-If you have any queries or want to purchase this software, you can reach out to me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
+If you want to purchase this software, you can reach out to me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
 
 ## Note:
 This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
